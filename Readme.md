@@ -1,6 +1,6 @@
 # Framework to Automate Backend Tests #
 This project was developed using the next technologies:
-* Python 3.8
+* Python 3.12
 * Pytest 8.3.4
 
 ## Installing `pip`:
