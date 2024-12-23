@@ -1,0 +1,567 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "address": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "employeeCount": {
+          "type": "integer"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "marketCap": {
+          "type": "integer"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "ceoName": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "address",
+        "zip",
+        "country",
+        "employeeCount",
+        "industry",
+        "marketCap",
+        "domain",
+        "logo",
+        "ceoName"
+      ]
+    }
+  ]
+}
